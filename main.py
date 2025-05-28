@@ -1,6 +1,4 @@
-import streamlit as st
-st.title('나의 첫 Streamlit 앱')
-st.write('안녕하세요!')
+
 import pandas as pd
 
 url = "https://drive.google.com/uc?export=download&id=1pwfON6doXyH5p7AOBJPfiofYlni0HVVY"
